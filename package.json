@@ -1,6 +1,6 @@
 {
   "name": "@haiec/anthropic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Anthropic Claude SDK wrapper with automatic usage tracking and cost calculation for HAIEC AI Inventory",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
