@@ -1,0 +1,35 @@
+{
+  "name": "@haiec/anthropic",
+  "version": "1.0.0",
+  "description": "Anthropic Claude SDK wrapper with automatic usage tracking and cost calculation for HAIEC AI Inventory",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "anthropic",
+    "claude",
+    "ai",
+    "tracking",
+    "usage",
+    "cost",
+    "haiec"
+  ],
+  "author": "HAIEC",
+  "license": "MIT",
+  "peerDependencies": {
+    "@anthropic-ai/sdk": "^0.20.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
