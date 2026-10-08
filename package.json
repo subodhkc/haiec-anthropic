@@ -18,8 +18,16 @@
     "cost",
     "haiec"
   ],
-  "author": "HAIEC",
+  "author": "Subodh Kc <subodhkc.com>",
   "license": "MIT",
+  "homepage": "https://www.haiec.com/ai-inventory",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subodhkc/haiec-anthropic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subodhkc/haiec-anthropic/issues"
+  },
   "peerDependencies": {
     "@anthropic-ai/sdk": "^0.20.0"
   },

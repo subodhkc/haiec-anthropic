@@ -237,9 +237,13 @@ Usage is automatically tracked for both modes.
 ## Support
 
 - **Documentation**: [docs.haiec.com](https://docs.haiec.com)
-- **Issues**: [GitHub Issues](https://github.com/haiec/haiec-anthropic/issues)
+- **Issues**: [GitHub Issues](https://github.com/subodhkc/haiec-anthropic/issues)
 - **Email**: support@haiec.com
 
 ## License
 
 MIT
+
+---
+
+Built by [Subodh Kc](https://subodhkc.com) — a [HAIEC](https://www.haiec.com) (Human AI Evidence Company) product.
